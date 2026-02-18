@@ -30,3 +30,4 @@ bin/
 .idea/modules.xml
 .idea/misc.xml
 java-exercise.iml
+*.xml
